@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="gameDB">
+  <DataContextMoniker Name="/gameDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7011e7f6-f70f-40b3-bc76-41cc26e350f3" absoluteBounds="3.125, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/gameDBDataContext/TblScore" />
+      <nestedChildShapes>
+        <elementListCompartment Id="971eb9a6-a94b-4ee3-89eb-66cb891d5748" absoluteBounds="3.14, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
